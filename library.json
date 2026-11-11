@@ -2,6 +2,20 @@
   "schemaVersion": 1,
   "editions": [
     {
+      "id": "2026-11-11-indian-express-delhi",
+      "date": "2026-11-11",
+      "publication": "The Indian Express",
+      "city": "Delhi",
+      "articleCount": 99,
+      "revision": 1,
+      "downloadUrl": "/packages/2026-11-11-indian-express-delhi-r1/edition.zip",
+      "sourcePdfUrl": "/packages/2026-11-11-indian-express-delhi-r1/source.pdf",
+      "byteSize": 6575719,
+      "sha256": "326ce284b53dfe0ff9b176467bb9f23417efe17f1750416b5084a05fccc3135c",
+      "contentSha256": "786cf542a130c90c23145c13c8f967e9c1095c632efbc67aec652bfed330d412",
+      "sourceSha256": "5eb7f5c714de9505b7b45c786e323c9d07341fb0340a346138d7129121bbf84d"
+    },
+    {
       "id": "2026-11-10-indian-express-delhi",
       "date": "2026-11-10",
       "publication": "The Indian Express",
@@ -16,5 +30,5 @@
       "sourceSha256": "bc11c787b51c6b35dd510dd5fa5d2a1f429b65f9b8b4c0860a526dad12f8fe31"
     }
   ],
-  "updatedAt": "2026-11-11T13:16:49.258Z"
+  "updatedAt": "2026-11-11T14:51:39.025Z"
 }
