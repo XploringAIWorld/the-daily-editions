@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "editions": [
+    {
+      "id": "2026-11-10-indian-express-delhi",
+      "date": "2026-11-10",
+      "publication": "The Indian Express",
+      "city": "Delhi",
+      "articleCount": 107,
+      "revision": 1,
+      "downloadUrl": "/packages/2026-11-10-indian-express-delhi-r1/edition.zip",
+      "sourcePdfUrl": "/packages/2026-11-10-indian-express-delhi-r1/source.pdf",
+      "byteSize": 5499213,
+      "sha256": "d8cfa401d9580b33a0e20cca544e303fb26a686ed8003eb96840f862aecfb873",
+      "contentSha256": "645ed2bd2350bc1f597fa8d6ec1328f193f4b439b59ac850894471ac5d83497f",
+      "sourceSha256": "bc11c787b51c6b35dd510dd5fa5d2a1f429b65f9b8b4c0860a526dad12f8fe31"
+    }
+  ],
+  "updatedAt": "2026-11-11T13:16:49.258Z"
+}
