@@ -7,12 +7,12 @@
       "publication": "The Indian Express",
       "city": "Delhi",
       "articleCount": 104,
-      "revision": 1,
-      "downloadUrl": "/packages/2026-11-12-indian-express-delhi-r1/edition.zip",
-      "sourcePdfUrl": "/packages/2026-11-12-indian-express-delhi-r1/source.pdf",
-      "byteSize": 5875415,
-      "sha256": "bc77f93b2a53460ddf2f198556fe6d5b4c7459617e02adf727c29f7d1be2183e",
-      "contentSha256": "08716571585bf1a8f69760524295ba37fd29ca6c1526ee72eb9f654080fefb03",
+      "revision": 2,
+      "downloadUrl": "/packages/2026-11-12-indian-express-delhi-r2/edition.zip",
+      "sourcePdfUrl": "/packages/2026-11-12-indian-express-delhi-r2/source.pdf",
+      "byteSize": 5888644,
+      "sha256": "5e7aa26ca1e738b1e975083e41a11319dc79c143657823b7032c59e2289211c7",
+      "contentSha256": "4fb59352090adb08cfc1b8479acaf3cbc4e0b78674ea5a6657d0b3d043f7bb95",
       "sourceSha256": "3c16ebb54b7d5b5c90b7389ea7a9ba3f3e2acc77b8eb979e0f53470d7e9bd903"
     },
     {
@@ -44,5 +44,5 @@
       "sourceSha256": "bc11c787b51c6b35dd510dd5fa5d2a1f429b65f9b8b4c0860a526dad12f8fe31"
     }
   ],
-  "updatedAt": "2026-11-12T05:49:14.000Z"
+  "updatedAt": "2026-11-12T07:24:26.112Z"
 }
